@@ -18,7 +18,7 @@ func main() {
 		Logger:        pyroscope.StandardLogger,
 		// 如果开启了 PYROSCOPE_AUTH_INGESTION_ENABLED,
 		// 并且按照以上步骤添加了 Key, 那么把 Key 放到此处即可
-		AuthToken: "",
+		AuthToken: "psx-AVmbAtgL9sHsm4YAZJSk-j_C0-EP-5sh7gOIYUjpeP_W",
 
 		// by default all profilers are enabled,
 		// but you can select the ones you want to use:
