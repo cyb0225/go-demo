@@ -14,3 +14,4 @@
 - [x] gops
 - [x] pprof
 - [x] pyroscope 使用
+- [ ] go-plugin
